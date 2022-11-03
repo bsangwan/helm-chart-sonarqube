@@ -47,7 +47,7 @@ entries:
     - https://github.com/SonarSource/sonarqube
     type: application
     urls:
-    - https://github.com/bsangwan/helm-chart-sonarqube/releases/download/sonarqube-6.0.1-sonarqube-dce-5.0.1/sonarqube-6.0.1+425.tgz
+    - https://github.com/bsangwan/helm-chart-sonarqube/releases/download/sonarqube-6.0.1-sonarqube-dce-5.0.2/sonarqube-6.0.1+425.tgz
     version: 6.0.1+425
   - annotations:
       artifacthub.io/changes: |
@@ -1049,8 +1049,8 @@ entries:
     - https://github.com/SonarSource/sonarqube
     type: application
     urls:
-    - https://github.com/bsangwan/helm-chart-sonarqube/releases/download/sonarqube-6.0.1-sonarqube-dce-5.0.1/sonarqube-dce-5.0.1+425.tgz
-    version: 5.0.1+425
+    - https://github.com/bsangwan/helm-chart-sonarqube/releases/download/sonarqube-6.0.1-sonarqube-dce-5.0.2/sonarqube-dce-5.0.2+425.tgz
+    version: 5.0.2+425
   - annotations:
       artifacthub.io/changes: |
         - kind: changed
@@ -2016,7 +2016,7 @@ entries:
     sources:
     - https://github.com/SonarSource/docker-sonarqube
     urls:
-    - https://github.com/bsangwan/helm-chart-sonarqube/releases/download/sonarqube-6.0.1-sonarqube-dce-5.0.1/sonarqube-lts-1.0.30+425.tgz
+    - https://github.com/bsangwan/helm-chart-sonarqube/releases/download/sonarqube-6.0.1-sonarqube-dce-5.0.2/sonarqube-lts-1.0.30+425.tgz
     version: 1.0.30+425
   - annotations:
       artifacthub.io/changes: |
